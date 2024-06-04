@@ -1,4 +1,4 @@
-3700 Assignment 2 - Cameron Fraser
+Cameron Fraser
 
 In order to run the program you must navigate to the directory that the programs are in then in the terminal you need to run the command "python pawnstars.py". After running that command, the program will prompt you for an input of 1 or 2, if you choose "1" you will play against a bot and it will prompt you to choose your colour. If you choose "2" you will play against yourself and the board will orient itself based on the turn of the player.
 
